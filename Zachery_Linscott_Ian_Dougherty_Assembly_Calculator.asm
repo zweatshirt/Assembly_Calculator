@@ -1,4 +1,4 @@
-# Zachery Linscott & Ian Dougherty | CS350 Final Project | Nov. 2020
+# Zachery Linscott & Ian Dougherty | Nov. 2020
 
 # Numerical calculator
 
